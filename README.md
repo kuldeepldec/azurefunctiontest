@@ -1,2 +1,2 @@
 # azurefunctiontest
-This repository is to test azure functions. Adding repository for test1
+This repository is to test azure functions. Adding repository for test2
